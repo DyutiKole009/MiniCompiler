@@ -1,0 +1,14 @@
+# Generated Flex/Bison files
+lex.yy.c
+parser.tab.c
+parser.tab.h
+
+# Compiled outputs
+compiler
+*.o
+*.out
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
