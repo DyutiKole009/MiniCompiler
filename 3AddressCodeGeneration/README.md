@@ -86,7 +86,3 @@ x = 3.5;
 
 - `lexer.l`: token definitions and lexical rules.
 - `parser.y`: grammar, semantic actions, symbol-table operations, type checks, quadruple generation, and the command-line entry point.
-
-## License
-
-Add a license if you intend to permit reuse or redistribution. Until then, no license is granted by this repository.
