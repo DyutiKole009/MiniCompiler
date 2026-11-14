@@ -1,0 +1,9 @@
+# Compiled executable and object files
+parser
+*.o
+*.out
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
