@@ -28,7 +28,7 @@ The parser uses `e`, `t`, and `f` in the C implementation to represent `E'`, `T'
 ## Repository structure
 
 ```text
-LL1-Predictive-Parser/
+LL1PredictiveParser/
 ├── main.c
 ├── README.md
 ├── Makefile
