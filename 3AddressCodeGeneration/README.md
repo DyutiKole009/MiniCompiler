@@ -18,7 +18,7 @@ A small compiler front end implemented in C to generate intermediate 3 Address C
 ## Project structure
 
 ```text
-Mini-Compiler/
+3AddressCodeGeneration/
 ├── lexer.l
 ├── parser.y
 ├── Makefile
